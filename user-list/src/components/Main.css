@@ -1,0 +1,12 @@
+img{
+    border-radius: 50%;
+    padding-top: 7px;
+}
+ul{
+    list-style-type: none;
+    padding-inline-start: 0;
+}
+.userInfo{
+    border:1px solid grey;
+    margin-top: 2px;
+}
