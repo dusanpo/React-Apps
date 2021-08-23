@@ -1,0 +1,33 @@
+ ol{
+    background-color: rgb(228, 210, 186);
+    font-weight: bold;
+}
+#container{
+    background-color: rgb(228, 210, 186);
+}
+
+.title{
+    color:orangered;
+ 
+}
+
+.secondTitle{
+    font-size: xx-small;
+    color:orangered;
+    font-weight: normal;
+}
+.brackets{
+    color:black;
+}
+.score{
+    color:grey;
+   
+}
+
+.comments{
+    background-color:#16a39e;
+    color:white;
+    font-size:11px;
+    padding:1px 5px;
+    border-radius: 25px;
+}
